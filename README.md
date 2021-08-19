@@ -23,7 +23,7 @@
 </div>
    
    ##   
- <div> 
+ <div style="display: inline_block"> 
   
   <a href="https://www.facebook.com/analuisabandeira/" target="_blank" rel="external"> <img  height="30" width="40" src= "imagens/facebook.png"></a>  
   <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img  height="30" width="40" src= "imagens/instagram64.png"></a>  
