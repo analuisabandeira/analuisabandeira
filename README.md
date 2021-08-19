@@ -26,7 +26,7 @@
   <img align="right" height="400" widht="400" src="imagens/gatinha.png" alt="pusheen">
   <a href="https://github.com/analuisabandeira">
   <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=analuisabandeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisabandeira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisabandeira&layout=compact&langs_count=7&theme=tokyonight"/></a>
  </div>
  
 ## Tecnologias em uso:
