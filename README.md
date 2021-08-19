@@ -25,9 +25,9 @@
    ##   
  <div> 
   
-  <a href="https://www.facebook.com/analuisabandeira/" target="_blank" rel="external"> <img align="center" height="30" width="40" src= "imagens/facebook.png"></a>  
-  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img align="center" height="30" width="40" src= "imagens/instagram64.png"></a>  
-  <a href="https://www.linkedin.com/in/analubandeira" target="_blank" rel="external"><img align="center" height="30" width="40" src= "imagens/in.png"></a>  
-  <a href = "mailto:analuisabandeira@gmail.com"><img align="center" height="30" width="40" src= "imagens/mail.png"></a>
+  <a href="https://www.facebook.com/analuisabandeira/" target="_blank" rel="external"> <img  height="30" width="40" src= "imagens/facebook.png"></a>  
+  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img  height="30" width="40" src= "imagens/instagram64.png"></a>  
+  <a href="https://www.linkedin.com/in/analubandeira" target="_blank" rel="external"><img  height="30" width="40" src= "imagens/in.png"></a>  
+  <a href = "mailto:analuisabandeira@gmail.com"><img height="30" width="40" src= "imagens/mail.png"></a>
 
  </div>
