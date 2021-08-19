@@ -23,10 +23,10 @@
 ## Meu desempenho no GitHub:
  <div>
 
-    <img align="right" height="250" widht="250" alt="figurinha i code like a girl"  src="imagens/pusheen.png">  
-   <a href="https://github.com/analuisabandeira">
-   <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=analuisabandeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
-   <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisabandeira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="imagens/pusheencat.png" alt="pusheen">
+  <a href="https://github.com/analuisabandeira">
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api?username=analuisabandeira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisabandeira&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  
 ## Tecnologias em uso:
