@@ -24,8 +24,9 @@
    
    ##   
  <div> 
- 
-  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img height="64" width="64"src= "imagens/instagram.png"></a>
+  
+  <a href="https://www.facebook.com/analuisabandeira/" target="_blank" rel="external"> <img height="64" width="64"src= "imagens/facebook.png"></a> 
+  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img height="64" width="64"src= "imagens/instagram64.png"></a>
   <a href="https://www.linkedin.com/in/analubandeira" target="_blank" rel="external"><img height="64" width="64" src= "imagens/in.png"></a> 
   <a href = "mailto:analuisabandeira@gmail.com"><img  src= "imagens/mail.png"></a>
 
