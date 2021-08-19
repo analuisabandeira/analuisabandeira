@@ -17,7 +17,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="figurinha i code like a girl" height="30" width="40" src="imagens/code.png" >
+   <img align="right" alt="figurinha i code like a girl"  src="imagens/code.png" >
   
   
 </div>
@@ -25,8 +25,8 @@
    ##   
  <div> 
  
-  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img src= "imagens/instagram.png"></a>
-  <a href="https://www.linkedin.com/in/analubandeira" target="_blank" rel="external"><img src= "imagens/in.png"></a> 
-  <a href = "mailto:analuisabandeira@gmail.com"><img src= "imagens/gmail.png"></a>
+  <a href="https://www.instagram.com/analuisaflag/" target="_blank" rel="external"> <img height="64" width="64"src= "imagens/instagram.png"></a>
+  <a href="https://www.linkedin.com/in/analubandeira" target="_blank" rel="external"><img height="64" width="64" src= "imagens/in.png"></a> 
+  <a href = "mailto:analuisabandeira@gmail.com"><img  src= "imagens/mail.png"></a>
 
  </div>
