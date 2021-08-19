@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Ana Luisa Bandeira ✨
 
 <div>
-  <img align="right" height="250" widht="250" alt="figurinha i code like a girl"  src="imagens/aanalu.gif" >
+  <img align="right" height="250" widht="250" alt="figurinha i code like a girl"  src="imagens/lulu.gif" >
 
   - Ela/dela ♀️
   - Mãe de Maria Flor 👩‍👧
