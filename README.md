@@ -5,7 +5,7 @@
 
   - Ela/dela ♀️
   - Mãe de Maria Flor 👩‍👧
-  - Estudo desenvolvimento web através da mentoria @cloudgirls ☁️
+  - Mentora no @cloudgirls ☁️
   - Aceito ajuda e sugestões de melhorias para os meus códigos 👨‍💻
   - Booklover 📚 
   - Cringe da cabeça aos pés! Fã de Friends 🛋️ e de Harry Potter ⚡, uso emojis nas mensagens e amo café ☕
