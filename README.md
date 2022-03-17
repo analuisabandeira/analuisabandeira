@@ -6,6 +6,8 @@
   - Ela/dela ♀️
   - Mãe de Maria Flor 👩‍👧
   - Mentora no @cloudgirls ☁️
+  - Professora de programação na ByJu's FutureSchool BR
+  - Trainee de desenvolvimento frontend na Performa_IT
   - Aceito ajuda e sugestões de melhorias para os meus códigos 👨‍💻
   - Booklover 📚 
   - Cringe da cabeça aos pés! Fã de Friends 🛋️ e de Harry Potter ⚡, uso emojis nas mensagens e amo café ☕
